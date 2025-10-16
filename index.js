@@ -15,7 +15,7 @@ server.use(middleware);
 server.use(router);
 
 // 6. Define port (Render provides process.env.PORT)
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 // 7. Start server
 server.listen(PORT, () => {
