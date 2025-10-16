@@ -1,0 +1,242 @@
+{
+  "resumes": [
+    {
+      "personalDetails": {
+        "fullName": "saritha",
+        "jobTitle": "react developer",
+        "location": "thrissur"
+      },
+      "contactDetails": {
+        "email": "saritha@gmail.com",
+        "phoneNumber": "9988776655",
+        "github": "",
+        "linkedIn": "",
+        "portfolio": ""
+      },
+      "educationDetails": [
+        {
+          "course": "MCA",
+          "college": "Chinmaya college",
+          "university": "Bharathiyar",
+          "passout": "2019"
+        }
+      ],
+      "workExperience": [
+        {
+          "jobTitle": "Web development Trainer",
+          "company": "ICS college ",
+          "location": "Ottappalam, palakkad",
+          "duration": "1 year",
+          "description": ""
+        }
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "Python",
+        "Java",
+        "SQL",
+        "React",
+        "JavaScript",
+        "Git"
+      ],
+      "summary": "Results-driven React Developer and Web Development Trainer with a strong background in building dynamic, responsive, and user-centric web applications. Skilled in modern front-end technologies including React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS, and REST APIs, with hands-on experience integrating Node.js, Express, and MongoDB in full-stack projects.",
+      "id": 1
+    },
+    {
+      "personalDetails": {
+        "fullName": "Bijesh",
+        "jobTitle": "IT manager",
+        "location": "Jordan"
+      },
+      "contactDetails": {
+        "email": "bijesh@gmail.com",
+        "phoneNumber": "9876543210",
+        "github": "",
+        "linkedIn": "",
+        "portfolio": ""
+      },
+      "educationDetails": [
+        {
+          "course": "Bsc.IT",
+          "college": "Chinmaya college",
+          "university": "Bharathiyar",
+          "passout": "2008"
+        }
+      ],
+      "workExperience": [
+        {
+          "jobTitle": "IT assistant",
+          "company": "Multiplex",
+          "location": "Abudabi",
+          "duration": "10 years",
+          "description": "seasoned IT professional with over a decade of experience managing IT infrastructure, technical support, and systems administration. Started as an IT Assistant at Abu Dhabi Multiplex Company and progressively advanced to the role of IT Manager in Jordan, overseeing end-to-end IT operations and digital transformation initiatives."
+        }
+      ],
+      "skills": [
+        "Communication",
+        "CCNA",
+        "Ms Office"
+      ],
+      "summary": "seasoned IT professional with over a decade of experience managing IT infrastructure, technical support, and systems administration. Started as an IT Assistant at Abu Dhabi Multiplex Company and progressively advanced to the role of IT Manager in Jordan, overseeing end-to-end IT operations and digital transformation initiatives.",
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "personalDetails": {
+        "fullName": "saritha",
+        "jobTitle": "react developer",
+        "location": "thrissur"
+      },
+      "contactDetails": {
+        "email": "saritha@gmail.com",
+        "phoneNumber": "9988776655",
+        "github": "",
+        "linkedIn": "",
+        "portfolio": ""
+      },
+      "educationDetails": [
+        {
+          "course": "MCA",
+          "college": "Chinmaya college",
+          "university": "Bharathiyar",
+          "passout": "2019"
+        }
+      ],
+      "workExperience": [
+        {
+          "jobTitle": "Web development Trainer",
+          "company": "ICS college ",
+          "location": "Ottappalam, palakkad",
+          "duration": "1 year",
+          "description": ""
+        }
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "Python",
+        "Java",
+        "SQL",
+        "React",
+        "JavaScript",
+        "Git"
+      ],
+      "summary": "Results-driven React Developer and Web Development Trainer with a strong background in building dynamic, responsive, and user-centric web applications. Skilled in modern front-end technologies including React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS, and REST APIs, with hands-on experience integrating Node.js, Express, and MongoDB in full-stack projects.",
+      "downloadedAt": "2025-10-16T03:52:45.666Z",
+      "fileName": "saritha.pdf",
+      "previewData": {
+        "name": "saritha",
+        "jobTitle": "react developer",
+        "skills": [
+          "HTML",
+          "CSS",
+          "Python"
+        ],
+        "summary": "Results-driven React Developer and Web Development Trainer with a strong background in building dyna..."
+      },
+      "id": 1
+    },
+    {
+      "personalDetails": {
+        "fullName": "Bijesh",
+        "jobTitle": "IT manager",
+        "location": "Jordan"
+      },
+      "contactDetails": {
+        "email": "bijesh@gmail.com",
+        "phoneNumber": "9876543210",
+        "github": "",
+        "linkedIn": "",
+        "portfolio": ""
+      },
+      "educationDetails": [
+        {
+          "course": "Bsc.IT",
+          "college": "Chinmaya college",
+          "university": "Bharathiyar",
+          "passout": "2008"
+        }
+      ],
+      "workExperience": [
+        {
+          "jobTitle": "IT assistant",
+          "company": "Multiplex",
+          "location": "Abudabi",
+          "duration": "10 years",
+          "description": "seasoned IT professional with over a decade of experience managing IT infrastructure, technical support, and systems administration. Started as an IT Assistant at Abu Dhabi Multiplex Company and progressively advanced to the role of IT Manager in Jordan, overseeing end-to-end IT operations and digital transformation initiatives."
+        }
+      ],
+      "skills": [
+        "Communication",
+        "CCNA",
+        "Ms Office"
+      ],
+      "summary": "seasoned IT professional with over a decade of experience managing IT infrastructure, technical support, and systems administration. Started as an IT Assistant at Abu Dhabi Multiplex Company and progressively advanced to the role of IT Manager in Jordan, overseeing end-to-end IT operations and digital transformation initiatives.",
+      "downloadedAt": "2025-10-16T03:58:09.232Z",
+      "fileName": "Bijesh.pdf",
+      "previewData": {
+        "name": "Bijesh",
+        "jobTitle": "IT manager",
+        "skills": [
+          "Communication",
+          "CCNA",
+          "Ms Office"
+        ],
+        "summary": "seasoned IT professional with over a decade of experience managing IT infrastructure, technical supp..."
+      },
+      "id": 2
+    },
+    {
+      "personalDetails": {
+        "fullName": "Bijesh",
+        "jobTitle": "IT manager",
+        "location": "Jordan"
+      },
+      "contactDetails": {
+        "email": "bijesh@gmail.com",
+        "phoneNumber": "9876543210",
+        "github": "",
+        "linkedIn": "",
+        "portfolio": ""
+      },
+      "educationDetails": [
+        {
+          "course": "Bsc.IT",
+          "college": "Chinmaya college",
+          "university": "Bharathiyar",
+          "passout": "2008"
+        }
+      ],
+      "workExperience": [
+        {
+          "jobTitle": "IT assistant",
+          "company": "Multiplex",
+          "location": "Abudabi",
+          "duration": "10 years",
+          "description": ""
+        }
+      ],
+      "skills": [
+        "Communication",
+        "CCNA",
+        "Ms Office"
+      ],
+      "summary": "seasoned IT professional with over a decade of experience managing IT infrastructure, technical support, and systems administration. Started as an IT Assistant at Abu Dhabi Multiplex Company and progressively advanced to the role of IT Manager in Jordan, overseeing end-to-end IT operations and digital transformation initiatives.",
+      "updatedAt": "2025-10-16T03:58:24.003Z",
+      "fileName": "Bijesh_updated.pdf",
+      "previewData": {
+        "name": "Bijesh",
+        "jobTitle": "IT manager",
+        "skills": [
+          "Communication",
+          "CCNA",
+          "Ms Office"
+        ],
+        "summary": "seasoned IT professional with over a decade of experience managing IT infrastructure, technical supp..."
+      },
+      "id": 3
+    }
+  ]
+}
